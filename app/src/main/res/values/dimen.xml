@@ -1,0 +1,23 @@
+<resources>
+    <dimen name="title_history_size">26sp</dimen>
+    <dimen name="settings_text_margin">10dp</dimen>
+
+    // Galyaminsky
+    <dimen name="card_margin_default">16dp</dimen>
+    <dimen name="card_margin_min">8dp</dimen>
+    <dimen name="card_radius">15dp</dimen>
+    <dimen name="card_elevation">1dp</dimen>
+    <dimen name="card_elevation_min">5dp</dimen>
+    <dimen name="card_elevation_mox">10dp</dimen>
+    <dimen name="card_stroke">1dp</dimen>
+    <dimen name="card_text_max">20sp</dimen>
+    <dimen name="card_text_min">16sp</dimen>
+    <dimen name="layout_height_markers_recyclerview">0dp</dimen>
+    <dimen name="card_text_size_default">24sp</dimen>
+    <dimen name="layout_margin_start_title_view">32dp</dimen>
+    <dimen name="layout_margin_top__title_view">20dp</dimen>
+    <dimen name="text_size_standard">17sp</dimen>
+    <dimen name="text_size_standard_header">20sp</dimen>
+    <dimen name="text_size_large">25sp</dimen>
+    <dimen name="bottom_sheet_dialog_corner_radius">10dp</dimen>
+</resources>
