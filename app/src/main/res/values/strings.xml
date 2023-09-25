@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">MapModule</string>
+
+    <string name="title_activity_maps">Навигатор</string>
+    <string name="map">Карта</string>
+    <string name="coordinates_marker">Координаты</string>
+    <string name="markers">Маркеры</string>
+
+    <string name="title_marker">Название</string>
+    <string name="note_marker">Заметка</string>
+    <string name="marker_annotation">Аннотация</string>
+
+    <string name="remove_marker">Удалить</string>
+    <string name="correct_marker">Редактировать</string>
+    <string name="approve">Подтвердить</string>
+
+    <string name="is_paris">Париж</string>
+    <string name="iam_hear">Я здесь</string>
 </resources>
